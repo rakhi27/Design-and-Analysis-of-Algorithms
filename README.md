@@ -13,3 +13,4 @@ Compute the size of the minimum cut of a given graph using the Karger's algorith
 
 # Week 4 - Kosaraju's algorithm
 Find the strongly connected components (strictly speaking, the sizes only) of a graph with 800k nodes.
+This was implemented in the recursive and in the iterative way
