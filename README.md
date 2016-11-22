@@ -14,3 +14,6 @@ Compute the size of the minimum cut of a given graph using the Karger's algorith
 # Week 4 - Kosaraju's algorithm
 Find the strongly connected components (strictly speaking, the sizes only) of a graph with 800k nodes.
 This was implemented in the recursive and in the iterative way
+
+# Week 5 - Dijkstra's shortest-path algorithm
+Run Dijkstra's shortest-path algorithm on a graph, using 1 (the first vertex) as the source vertex, and compute the shortest-path distances between 1 and every other vertex of the graph. If there is no path between a vertex v and vertex 1, we'll define the shortest-path distance between 1 and v to be 1000000.
